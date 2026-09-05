@@ -12,3 +12,6 @@ Thumbs.db
 
 # Temporary Git metadata backup used during setup
 .git-paused/
+
+.vercel
+.env*
