@@ -1,0 +1,14 @@
+# Local system files
+desktop.ini
+Thumbs.db
+
+# Vercel local project settings
+.vercel/
+
+# Private source documents (not part of the public website)
+*.hwp
+*.pdf
+*.docx
+
+# Temporary Git metadata backup used during setup
+.git-paused/
